@@ -1,0 +1,4 @@
+black==22.3.0
+coverage==4.3
+codeclimate-test-reporter==0.2.3
+click==8.0.1
